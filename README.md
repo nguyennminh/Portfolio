@@ -1,5 +1,5 @@
 # Portfolio Website
-_My Personal Portfolio Website hosted on github pages
+My Personal Portfolio Website hosted on github pages
 
 ## Technology Used
 * Frontend: HTML, CSS, Javascript

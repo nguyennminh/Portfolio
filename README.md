@@ -1,5 +1,6 @@
 # Portfolio Website
 My Personal Portfolio Website hosted on github pages
+https://nguyennminh.github.io/Portfolio/
 
 ## Technology Used
 * Frontend: HTML, CSS, Javascript
